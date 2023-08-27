@@ -1,4 +1,4 @@
-# React-Calculator
+# React-Portfolio
 A react Portfolio.
 
 # Getting Started with Create React App
